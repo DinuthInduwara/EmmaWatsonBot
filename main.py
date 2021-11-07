@@ -72,12 +72,12 @@ def messageHandler(update: Update, context: CallbackContext):
 
             ##########################  URL SET FOR ALL YEARS ##########################
 #################          2000       #####################
-    if "🖼 2000 🖼" in update.message.text:
+    if  "🚀 2000 🚀" in update.message.text:
         context.bot.send_message(chat_id=update.message.chat_id, text=   "https://i.im.ge/2021/10/23/oaRH90.jpg")
         
 
 #################          2002       #####################
-    if "🖼 2002 🖼" in update.message.text:
+    if "🚀 2002 🚀" in update.message.text:
         දෙදස්දෙක = [[KeyboardButton("2002 Octomber")], [KeyboardButton("2002 November")],[KeyboardButton("2002 july")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදස්දෙක))
 
@@ -130,7 +130,7 @@ def messageHandler(update: Update, context: CallbackContext):
 
 
 ##################          2003       #####################
-    if "🖼 2003 🖼" in update.message.text:
+    if "🚀 2003 🚀" in update.message.text:
         දෙදාස්තුන = [[KeyboardButton("2003 April")], [KeyboardButton("2003 Spetember")],[KeyboardButton("2003 November")], [KeyboardButton("2003 December")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදාස්තුන))
     
@@ -199,7 +199,7 @@ def messageHandler(update: Update, context: CallbackContext):
     
 
 ###################          2004       #####################
-    if "🖼 2004 🖼" in update.message.text:
+    if "🚀 2004 🚀" in update.message.text:
         දෙදස්හතර = [[KeyboardButton("2004 January")], [KeyboardButton("2004 May 1")], [KeyboardButton("2004 May 2")], [KeyboardButton("2004 May 3")], [KeyboardButton("2004 May 4")], [KeyboardButton("2004 May 5")], [KeyboardButton("2004 May 6")],[KeyboardButton("2004 September")], [KeyboardButton("2004 November")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදස්හතර))
     
@@ -629,7 +629,7 @@ def messageHandler(update: Update, context: CallbackContext):
         context.bot.send_message(chat_id=update.message.chat_id, text=  "https://i.im.ge/2021/10/23/oaBCrL.jpg")
 
 ###################          2005       #####################
-    if "🖼 2005 🖼" in update.message.text:
+    if "🚀 2005 🚀" in update.message.text:
         dedaspaha = [[KeyboardButton("2005 Feburary")], [KeyboardButton("2005 March")],[KeyboardButton("2005 July")],[KeyboardButton("2005 Octomber 1")], [KeyboardButton("2005 Octomber 2")], [KeyboardButton("2005 November 1")],[KeyboardButton("2005 November 2")],[KeyboardButton("2005 November 3")],[KeyboardButton("2005 November 4")],[KeyboardButton("2005 November 5")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(dedaspaha))
     
@@ -1430,7 +1430,7 @@ def messageHandler(update: Update, context: CallbackContext):
     
 
 ###################          2006       #####################
-    if "🖼 2006 🖼" in update.message.text:
+    if "🚀 2006 🚀" in update.message.text:
         දෙදාස්හය  = [[KeyboardButton("2006 March")], [KeyboardButton("2006 Juni")],[KeyboardButton("2006 September")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදාස්හය))
     
@@ -1632,7 +1632,7 @@ def messageHandler(update: Update, context: CallbackContext):
    
 ###################          2007       #####################
 
-    if "🖼 2007 🖼" in update.message.text:
+    if "🚀 2007 🚀" in update.message.text:
         දෙදස්හත  = [[KeyboardButton("2007 July 1")], [KeyboardButton("2007 July 2")],[KeyboardButton("2007 July 3")],[KeyboardButton("2007 July 4")],[KeyboardButton("2007 July 5")],[KeyboardButton("2007 July 6")],[KeyboardButton("2007 July 7")],[KeyboardButton("2007 July 8")],[KeyboardButton("2007 September")],[KeyboardButton("2007 October")],[KeyboardButton("2007 November")],[KeyboardButton("2007 December")],[KeyboardButton("Back")]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදස්හත))
     
@@ -3011,7 +3011,7 @@ def messageHandler(update: Update, context: CallbackContext):
 
 ###################          2008       #####################
 
-    if "🖼 2008 🖼" in update.message.text:
+    if "🚀 2008 🚀" in update.message.text:
         දෙදසඇට  = [[KeyboardButton("2008 February")], [KeyboardButton("2008 March")],[KeyboardButton("2008 September 1")],[KeyboardButton("2008 September 2")],[KeyboardButton("2008 September 3")],[KeyboardButton("2008 September 4")],[KeyboardButton("2008 Octomber 1")],[KeyboardButton("2008 Octomber 2")],[KeyboardButton("2008 Octomber 3")],[KeyboardButton("2008 November")],[KeyboardButton("2008 December 1")],[KeyboardButton("2008 December 2")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදසඇට))
     
@@ -4289,7 +4289,7 @@ def messageHandler(update: Update, context: CallbackContext):
 ###################          2009       #####################
 
 
-    if "🖼 2009 🖼" in update.message.text:
+    if "🚀 2009 🚀" in update.message.text:
         දේදාස්නවය  = [[KeyboardButton("2009 Feb07")], [KeyboardButton("2009 Jul05")], [KeyboardButton("2009 Jul06")], [KeyboardButton("2009 Jul07")],[KeyboardButton("2009 Jul08 - 1")],[KeyboardButton("2009 Jul08 - 2")],[KeyboardButton("2009 Jul08 - 3")],[KeyboardButton("2009 Jun03")],[KeyboardButton("2009 Jul09 - 1")],[KeyboardButton("2009 Jul09 - 2")],[KeyboardButton("2009 Jul11 - 1")], [KeyboardButton("2009 Jul11 - 2")], [KeyboardButton("2009 Mar10")], [KeyboardButton("2009 Sep22")],[KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දේදාස්නවය))
     
@@ -5423,7 +5423,7 @@ def messageHandler(update: Update, context: CallbackContext):
 
 
 ###################          2010       #####################
-    if "🖼 2010 🖼" in update.message.text:
+    if "🚀 2010 🚀" in update.message.text:
         දෙදස්දහය  = [[KeyboardButton("2010 Mar03")], [KeyboardButton("2010 May20")], [KeyboardButton("2010 Mar25")], [KeyboardButton("2010 May26")],[KeyboardButton("2010 Nov10")],[KeyboardButton("2010 Nov15 - 1")],[KeyboardButton("2010 Nov15 - 2")],[KeyboardButton("2010 Nov13")],[KeyboardButton("Nov16")], [KeyboardButton(urlback)]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදස්දහය))
     
@@ -6027,7 +6027,7 @@ def messageHandler(update: Update, context: CallbackContext):
 ###################          2012       #####################
 
 
-    if "🖼 2012 🖼" in update.message.text:
+    if "🚀 2012 🚀" in update.message.text:
         දෙදස්දහය  = [[KeyboardButton("2012 April-14")], [KeyboardButton("2012 April-21")], [KeyboardButton("2012 Sep05")], [KeyboardButton("2012 Oct15")],[KeyboardButton("2012 Jun03")], [KeyboardButton("2012 Feb10-2")],[KeyboardButton("2012 Feb10-1")],[KeyboardButton("2012 May01")],[KeyboardButton("2012 Sep06")], [KeyboardButton("2012 Sep26")], [KeyboardButton("2012 Spe07")], [KeyboardButton("2012 Spe08")], [KeyboardButton("2012 Sep11")], [KeyboardButton("2012 Sep13-1")], [KeyboardButton("2012 Sep-2")], [KeyboardButton("2012 Sep17")], [KeyboardButton("2012 Sep30")], [KeyboardButton(urlback)]]
 
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(දෙදස්දහය))
