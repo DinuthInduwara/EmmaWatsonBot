@@ -97,7 +97,7 @@ yearsbuttonurl = [[KeyboardButton(2000)],[KeyboardButton(2002)],[KeyboardButton(
 
 API_KEY = '2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI'
 
-yearsbuttonph = [[KeyboardButton("2.0.0.0")],[KeyboardButton("2.0.0.2")],[KeyboardButton("2.0.0.3")],[KeyboardButton("2.0.0.4")],[KeyboardButton("2.0.0.5")],[KeyboardButton("2.0.0.6")],[KeyboardButton("2.0.0.7")],[KeyboardButton("2.0.0.8")],[KeyboardButton("2.0.0.9")],[KeyboardButton("2.0.1.0")],[KeyboardButton("2.0.1.1")],[KeyboardButton("2.0.1.2")],[KeyboardButton("2.0.1.3")],[KeyboardButton("2.0.1.4")],[KeyboardButton("2.0.1.5")],[KeyboardButton("16). 2016")],[KeyboardButton("2.0.1.7")],[KeyboardButton("2.0.1.8")],[KeyboardButton("2.0.1.9")],[KeyboardButton("2.0.2.0")],[KeyboardButton("2.0.2.1")],[KeyboardButton(backmain)]]
+yearsbuttonph = [[KeyboardButton("-2000-")],[KeyboardButton("2.0.0.2")],[KeyboardButton("2.0.0.3")],[KeyboardButton("2.0.0.4")],[KeyboardButton("2.0.0.5")],[KeyboardButton("2.0.0.6")],[KeyboardButton("2.0.0.7")],[KeyboardButton("2.0.0.8")],[KeyboardButton("2.0.0.9")],[KeyboardButton("2.0.1.0")],[KeyboardButton("2.0.1.1")],[KeyboardButton("2.0.1.2")],[KeyboardButton("2.0.1.3")],[KeyboardButton("2.0.1.4")],[KeyboardButton("2.0.1.5")],[KeyboardButton("16). 2016")],[KeyboardButton("2.0.1.7")],[KeyboardButton("2.0.1.8")],[KeyboardButton("2.0.1.9")],[KeyboardButton("2.0.2.0")],[KeyboardButton("2.0.2.1")],[KeyboardButton(backmain)]]
 
 
 updater = Updater(token="2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI")
