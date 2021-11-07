@@ -51,7 +51,7 @@ def messageHandler(update: Update, context: CallbackContext):
     if Photos in update.message.text:
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(modebutt))
     
-    if phmode in update.message.text:
+    if phmode in update.message.text:   
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome", reply_markup=ReplyKeyboardMarkup(yearsbuttonph))
     
     if Interviews in update.message.text:
