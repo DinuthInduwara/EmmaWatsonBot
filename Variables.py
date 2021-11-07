@@ -88,14 +88,6 @@ backmain = "🔙🔙Back To Main Menu🔙🔙"
 firstbuttonset = [[KeyboardButton(Photos)], [KeyboardButton(Interviews)],[KeyboardButton(Tiktok_And_Others)],[KeyboardButton(Movies)],[KeyboardButton(Random_Photos_And_Videos)],[KeyboardButton(Watch_And_Download_All)]]
 
 
-
-yearsbuttonphotosmode = [[KeyboardButton(1). 2000)],[KeyboardButton(2). 2002)],[KeyboardButton(3). 2003)],[KeyboardButton(4). 2004)],[KeyboardButton(5).2005)],[KeyboardButton(2006)],[KeyboardButton(2007)],[KeyboardButton(2008)],[KeyboardButton(2009)],[KeyboardButton(2010)],[KeyboardButton(2011)],[KeyboardButton(2012)],[KeyboardButton(2013)],[KeyboardButton(2014)],[KeyboardButton(2015)],[KeyboardButton(2016)],[KeyboardButton(2017)],[KeyboardButton(2018)],[KeyboardButton(2019)],[KeyboardButton(2020)],[KeyboardButton(2021)],[KeyboardButton(backmain)]]
-
-yearsbuttonph = [[KeyboardButton("1). 2000_Photos")],[KeyboardButton("2). 2002")],[KeyboardButton("3). 2003")],[KeyboardButton("4). 2004")],[KeyboardButton("5). 2005")],[KeyboardButton("6). 2006")],[KeyboardButton("7). 2007")],[KeyboardButton("8). 2008")],[KeyboardButton("9). 2009")],[KeyboardButton("10). 2010")],[KeyboardButton("11) .2011")],[KeyboardButton("12). 2012")],[KeyboardButton("13). 2013")],[KeyboardButton("14). 2014")],[KeyboardButton("15). 2015")],[KeyboardButton("16). 2016")],[KeyboardButton("17). 2017")],[KeyboardButton("18). 2018")],[KeyboardButton("19). 2019")],[KeyboardButton("20). 2020")],[KeyboardButton("21). 2021")],[KeyboardButton(backmain)]]
-
-
-
-
 modebutt = [[KeyboardButton(phmode)], [KeyboardButton(urlmode)]]
 
 
@@ -103,12 +95,12 @@ yearsbuttonurl = [[KeyboardButton(2000)],[KeyboardButton(2002)],[KeyboardButton(
 
 
 
-API_KEY = '2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI'
+API_KEY = '2033518274:AAFYBZRILqiBBDB8_wFaCLSqFQe4mwmGAJs'
+
+yearsbuttonph = [[KeyboardButton("1). 2000")],[KeyboardButton("2). 2002")],[KeyboardButton("3). 2003")],[KeyboardButton("4). 2004")],[KeyboardButton("5). 2005")],[KeyboardButton("6). 2006")],[KeyboardButton("7). 2007")],[KeyboardButton("8). 2008")],[KeyboardButton("9). 2009")],[KeyboardButton("10). 2010")],[KeyboardButton("11) .2011")],[KeyboardButton("12). 2012")],[KeyboardButton("13). 2013")],[KeyboardButton("14). 2014")],[KeyboardButton("15). 2015")],[KeyboardButton("16). 2016")],[KeyboardButton("17). 2017")],[KeyboardButton("18). 2018")],[KeyboardButton("19). 2019")],[KeyboardButton("20). 2020")],[KeyboardButton("21). 2021")],[KeyboardButton(backmain)]]
 
 
-
-
-updater = Updater(token="2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI")
+updater = Updater(token="2033518274:AAFYBZRILqiBBDB8_wFaCLSqFQe4mwmGAJs")
 dispatcher = updater.dispatcher
 
 
