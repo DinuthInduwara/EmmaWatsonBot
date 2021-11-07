@@ -52,7 +52,6 @@ def messageHandler(update: Update, context: CallbackContext):
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(modebutt))
     
     if phmode in update.message.text:
-        yearsbuttonph = [[KeyboardButton("1). 2000_Photos")],[KeyboardButton("2). 2002")],[KeyboardButton("3). 2003")],[KeyboardButton("4). 2004")],[KeyboardButton("5). 2005")],[KeyboardButton("6). 2006")],[KeyboardButton("7). 2007")],[KeyboardButton("8). 2008")],[KeyboardButton("9). 2009")],[KeyboardButton("10). 2010")],[KeyboardButton("11) .2011")],[KeyboardButton("12). 2012")],[KeyboardButton("13). 2013")],[KeyboardButton("14). 2014")],[KeyboardButton("15). 2015")],[KeyboardButton("16). 2016")],[KeyboardButton("17). 2017")],[KeyboardButton("18). 2018")],[KeyboardButton("19). 2019")],[KeyboardButton("20). 2020")],[KeyboardButton("21). 2021")],[KeyboardButton("Back To Manin Menu")]]
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome", reply_markup=ReplyKeyboardMarkup(yearsbuttonph))
     
     if Interviews in update.message.text:
