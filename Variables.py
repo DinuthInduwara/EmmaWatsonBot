@@ -91,13 +91,13 @@ firstbuttonset = [[KeyboardButton(Photos)], [KeyboardButton(Interviews)],[Keyboa
 modebutt = [[KeyboardButton(phmode)], [KeyboardButton(urlmode)]]
 
 
-yearsbuttonurl = [[KeyboardButton(2000)],[KeyboardButton(2002)],[KeyboardButton(2003)],[KeyboardButton(2004)],[KeyboardButton(2005)],[KeyboardButton(2006)],[KeyboardButton(2007)],[KeyboardButton(2008)],[KeyboardButton(2009)],[KeyboardButton(2010)],[KeyboardButton(2011)],[KeyboardButton(2012)],[KeyboardButton(2013)],[KeyboardButton(2014)],[KeyboardButton(2015)],[KeyboardButton(2016)],[KeyboardButton(2017)],[KeyboardButton(2018)],[KeyboardButton(2019)],[KeyboardButton(2020)],[KeyboardButton(2021)],[KeyboardButton(backmain)]]
+yearsbuttonurl = [[KeyboardButton(-2000-)],[KeyboardButton(-2002-)],[KeyboardButton(-2003-)],[KeyboardButton(-2004-)],[KeyboardButton(-2005-)],[KeyboardButton(-2006-)],[KeyboardButton(-2007-)],[KeyboardButton(-2008-)],[KeyboardButton(-2009-)],[KeyboardButton(-2010-)],[KeyboardButton(-2011-)],[KeyboardButton(-2012-)],[KeyboardButton(-2013-)],[KeyboardButton(-2014-)],[KeyboardButton(-2015-)],[KeyboardButton(-2016)-],[KeyboardButton(-2017-)],[KeyboardButton(-2018-)],[KeyboardButton(-2019-)],[KeyboardButton(-2020-)],[KeyboardButton(-2021-)],[KeyboardButton(backmain)]]
 
 
 
 API_KEY = '2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI'
 
-yearsbuttonph = [[KeyboardButton("-2000-")],[KeyboardButton("2.0.0.2")],[KeyboardButton("2.0.0.3")],[KeyboardButton("2.0.0.4")],[KeyboardButton("2.0.0.5")],[KeyboardButton("2.0.0.6")],[KeyboardButton("2.0.0.7")],[KeyboardButton("2.0.0.8")],[KeyboardButton("2.0.0.9")],[KeyboardButton("2.0.1.0")],[KeyboardButton("2.0.1.1")],[KeyboardButton("2.0.1.2")],[KeyboardButton("2.0.1.3")],[KeyboardButton("2.0.1.4")],[KeyboardButton("2.0.1.5")],[KeyboardButton("16). 2016")],[KeyboardButton("2.0.1.7")],[KeyboardButton("2.0.1.8")],[KeyboardButton("2.0.1.9")],[KeyboardButton("2.0.2.0")],[KeyboardButton("2.0.2.1")],[KeyboardButton(backmain)]]
+yearsbuttonph = [[KeyboardButton("🖼 2000 🖼")],[KeyboardButton("🖼 2002 🖼")],[KeyboardButton("🖼 2003 🖼")],[KeyboardButton("🖼 2004 🖼")],[KeyboardButton("🖼 2005 🖼")],[KeyboardButton("🖼 2006 🖼")],[KeyboardButton("🖼 2007 🖼")],[KeyboardButton("🖼 2008 🖼")],[KeyboardButton("🖼 2009 🖼")],[KeyboardButton("🖼 2010 🖼")],[KeyboardButton("🖼 2011 🖼")],[KeyboardButton("🖼 2012 🖼")],[KeyboardButton("🖼 2013 🖼")],[KeyboardButton("🖼 2014 🖼")],[KeyboardButton("🖼 2015 🖼")],[KeyboardButton("🖼 2016� 🖼")],[KeyboardButton("🖼 2017 🖼")],[KeyboardButton("🖼 2018 🖼")],[KeyboardButton("🖼 2019 🖼")],[KeyboardButton("🖼 2020 🖼")],[KeyboardButton("🖼 2021 🖼")],[KeyboardButton(backmain)]]
 
 
 updater = Updater(token="2076230938:AAHzms8SVRsfMoWEC10nf18ECcbWWiY6UpI")
