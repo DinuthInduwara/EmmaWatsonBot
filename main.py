@@ -36,13 +36,6 @@ logging.info('Starting Bot...')
     
 def messageHandler(update: Update, context: CallbackContext):
     
-    text = str(update.message.text).lower()
-    logging.info(f'User ({update.message.chat.id}) says: {text}')
-
-    # Bot response
-    response = responses.get_response(text)
-    update.message.reply_text(response)
-
 
     if "/start" in update.message.text:
         context.bot.send_message(chat_id=update.effective_chat.id, text="Welcome to my bot!", reply_markup=ReplyKeyboardMarkup(firstbuttonset))
