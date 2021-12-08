@@ -1,0 +1,31 @@
+{    
+
+"name": "Emma Watson Bot",
+    "description": "A bot that can upload Photos, videos and movies by Emma Watson ",
+    "logo": "https://github.com/DinuthInduwara/OC.EmmaWatsonBot/raw/main/wp2103435-emma-watson-hd-2017-wallpapers.jpg",
+    "keywords": [
+        "Telegram",
+        "EmmaWatson",
+        "Bot"
+    ],
+
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+       
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
